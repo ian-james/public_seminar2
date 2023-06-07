@@ -1,1 +1,1 @@
-# public_seminar2
+# Public Seminar 
